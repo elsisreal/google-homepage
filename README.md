@@ -1,0 +1,1 @@
+This is the readme! Recreating google homepage and functionality project for HTML/CSS
