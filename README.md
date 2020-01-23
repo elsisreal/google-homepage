@@ -1,1 +1,1 @@
-This is the readme! Recreating google homepage and functionality project for HTML/CSS
+This project is a recreation of the Google home/search page, in order to demonstrate basic proficiency in building HTML/CSS from scratch to reproduce an existing web page.
